@@ -90,15 +90,8 @@ I'm a Computer Science undergraduate interested in building secure, scalable, an
 
 I enjoy automating infrastructure, improving deployment workflows, securing software delivery pipelines, and understanding systems from application code to production operations.
 
-🔭 Exploring cloud-native infrastructure and production-style DevSecOps workflows on AWS EKS.
+🔭 Exploring cloud-native infrastructure and production-style DevSecOps workflows
 
-🌱 Learning more about Platform Engineering, Istio, Kubernetes security, and software supply-chain security.
-
-💬 Ask me about AWS, Kubernetes, Terraform, Docker, GitHub Actions, Argo CD, FastAPI, Trivy, and Kyverno.
-
-🎯 **Mission:** Make cloud infrastructure boring — because boring is reliable.
-
-⚡ **Fun fact:** I automate things so I can be lazy later 😄
 
 <br clear="right"/>
 
@@ -143,7 +136,7 @@ I enjoy automating infrastructure, improving deployment workflows, securing soft
 
 ### 💻 Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=python,go,c,bash,fastapi,react,nodejs&theme=dark&perline=8" alt="Languages and frameworks"/>
+<img src="https://skillicons.dev/icons?i=python,go,c,bash,fastapi&theme=dark&perline=8" alt="Languages and frameworks"/>
 
 ### ☁️ Cloud & DevOps
 
@@ -151,7 +144,7 @@ I enjoy automating infrastructure, improving deployment workflows, securing soft
 
 ### 🗄️ Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git,github,vscode&theme=dark&perline=7" alt="Databases and developer tools"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,vscode&theme=dark&perline=7" alt="Databases and developer tools"/>
 
 ### 🔐 DevSecOps & Supply Chain
 
@@ -199,38 +192,6 @@ I enjoy automating infrastructure, improving deployment workflows, securing soft
 </div>
 
 ---
-
-<div align="center">
-
-## 🏆   GITHUB TROPHIES
-
-<img src="https://github-profile-trophy.vercel.app/?username=KaleeswarG25&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" width="100%" alt="GitHub trophies"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈   CONTRIBUTION GRAPH
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaleeswarG25&theme=react-dark&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FF6B6B&hide_border=true&area=true" width="100%" alt="GitHub contribution graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍   MY CONTRIBUTIONS
-
-<img src="https://raw.githubusercontent.com/KaleeswarG25/KaleeswarG25/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
-
-</div>
-
----
-
-<div align="center">
 
 ## 💭   DEV QUOTE OF THE DAY
 
