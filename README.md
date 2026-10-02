@@ -1,21 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Kaleeswar%20G&fontSize=68&fontColor=00E5FF&fontAlignY=38&desc=Cloud%20%E2%80%A2%20DevOps%20%E2%80%A2%20DevSecOps%20Engineer&descAlignY=60&descSize=20" width="100%" alt="Kaleeswar G — Cloud, DevOps and DevSecOps Engineer"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&multiline=true&width=850&height=120&lines=AWS+Certified+Solutions+Architect+-+Associate;Building+Cloud-Native+Systems+on+AWS+EKS;Automating+CI%2FCD+%26+GitOps+with+Argo+CD;Hardening+Supply+Chains+with+DevSecOps" alt="Animated Cloud and DevOps introduction"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=270&section=header&text=Kaleeswar%20G&fontSize=68&fontColor=00E5FF&fontAlignY=38&desc=Cloud%20%E2%80%A2%20DevOps%20%E2%80%A2%20DevSecOps%20Engineer&descAlignY=60&descSize=20" width="100%" alt="Kaleeswar G — Cloud DevOps DevSecOps Engineer"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=AWS+Certified+Solutions+Architect+-+Associate;Cloud+Infrastructure+%7C+DevOps+%7C+DevSecOps;Kubernetes+%7C+Terraform+%7C+GitOps;Automation+%7C+Security+%7C+Observability" alt="Animated introduction"/>
+
+<br/><br/>
 
 <a href="https://github.com/KaleeswarG25">
 <img src="https://img.shields.io/badge/GitHub-KaleeswarG25-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 <a href="https://linkedin.com/in/kaleeswar-g-883379422">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:eswarjass1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -24,169 +26,151 @@
 
 <div align="center">
 
-## 🏅   CERTIFIED PROFESSIONAL
+## 👨‍💻 CLOUD • DEVOPS • DEVSECOPS
 
-### ⭐   Headline Credentials
+</div>
+
+I'm **Kaleeswar G**, a Computer Science undergraduate at **PSG College of Technology** with a strong focus on **Cloud Engineering, DevOps, DevSecOps, Kubernetes, and Infrastructure Automation**.
+
+I enjoy designing and automating cloud-native environments across the complete engineering lifecycle — from **infrastructure provisioning and containerization to CI/CD, GitOps, security, observability, and production operations**.
+
+My goal is to build systems that are:
+
+```text
+Reliable     →     Automated     →     Secure     →     Observable     →     Scalable
+```
+
+🎓 **B.E. Computer Science & Engineering — PSG College of Technology**
+📅 **Expected Graduation — 2027**
+📍 **Coimbatore, Tamil Nadu, India**
+
+---
+
+## ☁️ AWS CERTIFICATION
+
+<div align="center">
 
 <a href="https://www.credly.com/badges/a9dd100d-a16b-44d7-9b6e-7727c79a8fd5">
-<img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" height="45" alt="AWS Certified Solutions Architect Associate"/>
+
+<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="155" alt="AWS Certified Solutions Architect Associate"/>
+
 </a>
 
-<a href="https://www.credly.com/badges/3957755b-397e-47b6-a2dc-6b8a63b1b98a">
-<img src="https://img.shields.io/badge/LFS158-Introduction_to_Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0F1689" height="45" alt="LFS158"/>
-</a>
+### AWS Certified Solutions Architect – Associate
 
-<a href="https://www.credly.com/badges/51a69ff5-5ef8-497d-8595-4c4e26ea97db">
-<img src="https://img.shields.io/badge/LFS162-DevOps_%26_SRE-00C9A7?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=003B36" height="45" alt="LFS162"/>
-</a>
+**Amazon Web Services**
 
-### 🔐   Security & DevSecOps
+</div>
 
-<img src="https://img.shields.io/badge/LFC108-Cybersecurity_Essentials-00A3E0?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=002B45" alt="Cybersecurity Essentials"/>
+---
 
-<img src="https://img.shields.io/badge/LFD125-Security_for_Dev_Managers-DA3634?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=450000" alt="Security for Dev Managers"/>
+## 🏅 AWS TRAINING & DEMONSTRATED SKILLS
 
-<img src="https://img.shields.io/badge/LFS180-Intro_to_DevSecOps-00C9A7?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=003B36" alt="Introduction to DevSecOps"/>
-
-<img src="https://img.shields.io/badge/Fortinet-NSE_2_Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white&labelColor=4A0000" alt="Fortinet NSE 2"/>
-
-### ☁️   AWS Specializations
+<div align="center">
 
 <table>
 <tr>
-<td align="center">
+
+<td align="center" width="33%">
+
 <img src="https://images.credly.com/images/6bf3f80e-4cba-4b4c-bf45-85aec42233ff/blob" width="130" alt="AWS Application Networking Demonstrated"/>
-<br/>
-<strong>AWS Application Networking Demonstrated</strong>
-<br/>
-<sub>Amazon Web Services Training and Certification</sub>
-</td>
-
-<td align="center">
-<img src="https://images.credly.com/images/8dd6f516-0dd3-4b5e-aacf-8e86e737a95d/blob" width="130" alt="AWS Cloud Quest: Networking - Training Badge"/>
-<br/>
-<strong>AWS Cloud Quest: Networking</strong>
-<br/>
-<sub>Amazon Web Services Training and Certification</sub>
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/AWS_Incident-Response_Demonstrated-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Incident Response Demonstrated"/>
-<br/>
-<strong>AWS Incident Response Demonstrated</strong>
-<br/>
-<sub>Amazon Web Services Training and Certification</sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/AWS_Cloud_Quest-Networking-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Cloud Quest Networking"/>
-
-<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Cloud Practitioner Essentials"/>
-
-### 🐧   Linux & Kubernetes
-
-<img src="https://img.shields.io/badge/LFS157-Serverless_on_Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0F1689" alt="LFS157"/>
-
-<img src="https://img.shields.io/badge/Cisco-Linux_Unhatched-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=003049" alt="Cisco Linux Unhatched"/>
 
 <br/><br/>
 
-<a href="https://www.credly.com/badges/a9dd100d-a16b-44d7-9b6e-7727c79a8fd5">
-<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="110" alt="AWS certification badge"/>
-</a>
+<strong>AWS Application Networking Demonstrated</strong>
 
-<img src="https://training.linuxfoundation.org/wp-content/uploads/2019/02/kubernetes.png" width="100" alt="Kubernetes learning badge"/>
+<br/>
 
-</div>
+<sub>Amazon Web Services Training and Certification</sub>
 
----
-
-<div align="center">
-
-## 👋   ABOUT ME
-
-</div>
-
-<img align="right" alt="Developer working at a computer" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-* 👨‍💻 **Name:** Kaleeswar G
-* ☁️ **Role:** Cloud & DevOps Engineering
-* 📍 **Location:** Coimbatore, Tamil Nadu, India 🇮🇳
-* 🎓 **Education:** B.E. Computer Science & Engineering
-* 🏫 **College:** PSG College of Technology
-* 📅 **Graduation:** 2027
-* ☁️ **Certification:** AWS Certified Solutions Architect – Associate
-* 🎯 **Focus:** Cloud Infrastructure · DevOps · DevSecOps · GitOps
-* 🤝 **Interests:** Open Source · Automation · Cloud-Native Engineering
-
-I'm a Computer Science undergraduate interested in building secure, scalable, and reliable cloud-native infrastructure.
-
-I enjoy automating infrastructure, improving deployment workflows, securing software delivery pipelines, and understanding systems from application code to production operations.
-
-🔭 Exploring cloud-native infrastructure and production-style DevSecOps workflows
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-## 🎯   WHAT I DO
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/4149/4149678.png" width="65" alt="Cloud"/>
-<br/><strong>☁️ Cloud Engineering</strong>
-<br/><sub>AWS · Terraform · EKS · S3 · ECR</sub>
 </td>
 
-<td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="65" alt="DevOps"/>
-<br/><strong>🚀 DevOps & GitOps</strong>
-<br/><sub>Docker · Kubernetes · Helm · Argo CD</sub>
+<td align="center" width="33%">
+
+<img src="https://images.credly.com/images/8dd6f516-0dd3-4b5e-aacf-8e86e737a95d/blob" width="130" alt="AWS Cloud Quest Networking"/>
+
+<br/><br/>
+
+<strong>AWS Cloud Quest: Networking</strong>
+
+<br/>
+
+<sub>Amazon Web Services Training and Certification</sub>
+
 </td>
 
-<td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="65" alt="Security"/>
-<br/><strong>🔒 DevSecOps</strong>
-<br/><sub>Trivy · SonarQube · Gitleaks · Kyverno</sub>
-</td>
+<td align="center" width="33%">
 
-<td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="65" alt="Backend"/>
-<br/><strong>⚙️ Backend</strong>
-<br/><sub>FastAPI · Python · Go · PostgreSQL</sub>
+<img src="https://img.shields.io/badge/AWS_Incident_Response-Demonstrated-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Incident Response Demonstrated"/>
+
+<br/><br/>
+
+<strong>AWS Incident Response Demonstrated</strong>
+
+<br/>
+
+<sub>Amazon Web Services Training and Certification</sub>
+
 </td>
 
 </tr>
 </table>
 
+<br/>
+
+<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Cloud Practitioner Essentials"/>
+
 </div>
 
 ---
 
+## 🛠️ TECHNICAL EXPERTISE
+
+### ☁️ Cloud & Infrastructure
+
 <div align="center">
 
-## 🛠️   TECH ARSENAL
+<img src="https://skillicons.dev/icons?i=aws,terraform&theme=dark&perline=5" alt="AWS Terraform"/>
 
-### 💻 Languages & Frameworks
+</div>
 
-<img src="https://skillicons.dev/icons?i=python,go,c,bash,fastapi&theme=dark&perline=8" alt="Languages and frameworks"/>
+**AWS**
 
-### ☁️ Cloud & DevOps
+`EC2` · `VPC` · `IAM` · `S3` · `RDS` · `ECR` · `EKS` · `ALB` · `CloudWatch` · `CloudTrail` · `Route 53` · `Secrets Manager` · `KMS`
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,helm,ansible,githubactions,gitlab,linux,nginx&theme=dark&perline=5" alt="Cloud and DevOps tools"/>
+**Infrastructure as Code**
 
-### 🗄️ Databases & Tools
+`Terraform`
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,vscode&theme=dark&perline=7" alt="Databases and developer tools"/>
+---
 
-### 🔐 DevSecOps & Supply Chain
+### ☸️ Containers & Kubernetes
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,nginx&theme=dark&perline=6" alt="Docker Kubernetes Helm Nginx"/>
+
+</div>
+
+`Docker` · `Kubernetes` · `Amazon EKS` · `Helm` · `Ingress` · `RBAC` · `HPA` · `PDB` · `ConfigMaps` · `Secrets` · `ServiceAccounts` · `Network Policies`
+
+---
+
+### 🚀 CI/CD & GitOps
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark&perline=6" alt="Git GitHub GitHub Actions"/>
+
+</div>
+
+`Git` · `GitHub` · `GitHub Actions` · `CI/CD` · `Argo CD` · `GitOps` · `Helm-based Deployment`
+
+---
+
+### 🔐 DevSecOps & Software Supply Chain
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasec&logoColor=white" alt="Trivy"/>
 
@@ -200,7 +184,17 @@ I enjoy automating infrastructure, improving deployment workflows, securing soft
 
 <img src="https://img.shields.io/badge/Kyverno-2C6BED?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kyverno"/>
 
-### 📊 Observability
+</div>
+
+**Security capabilities**
+
+`Secret Detection` · `Container Security` · `SAST` · `SBOM` · `Image Signing` · `Provenance` · `Admission Control` · `Kubernetes Policy Enforcement` · `Supply Chain Security`
+
+---
+
+### 📊 Observability & Reliability
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
 
@@ -210,11 +204,180 @@ I enjoy automating infrastructure, improving deployment workflows, securing soft
 
 </div>
 
+`Prometheus` · `Grafana` · `Loki` · `Promtail` · `Node Exporter` · `cAdvisor` · `Metrics` · `Logs` · `Dashboards` · `Alerting`
+
 ---
+
+### 💻 Programming & Backend
 
 <div align="center">
 
-## 🧠   CORE CS FUNDAMENTALS
+<img src="https://skillicons.dev/icons?i=python,c,go,bash,fastapi&theme=dark&perline=8" alt="Python C Go Bash FastAPI"/>
+
+</div>
+
+`Python` · `C` · `Go` · `Bash` · `FastAPI` · `REST APIs`
+
+---
+
+### 🗄️ Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark&perline=6" alt="PostgreSQL MySQL MongoDB"/>
+
+</div>
+
+`PostgreSQL` · `MySQL` · `MongoDB`
+
+---
+
+### 🐧 Linux & Networking
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux"/>
+
+</div>
+
+`Linux` · `TCP/IP` · `DNS` · `HTTP/HTTPS` · `TLS` · `Routing` · `Subnetting` · `Load Balancing` · `Network Troubleshooting`
+
+---
+
+## 🏗️ ENGINEERING FOCUS
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### ☁️
+
+**Cloud**
+
+AWS
+EKS
+VPC
+IAM
+ECR
+S3
+RDS
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**Automation**
+
+Terraform
+Docker
+CI/CD
+GitHub Actions
+Helm
+Argo CD
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔐
+
+**Security**
+
+Trivy
+Gitleaks
+Cosign
+Syft
+Kyverno
+SonarQube
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊
+
+**Operations**
+
+Prometheus
+Grafana
+Loki
+Logging
+Metrics
+Alerting
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🔄 CLOUD-NATIVE ENGINEERING
+
+```text
+                         SOFTWARE DELIVERY LIFECYCLE
+
+ ┌──────────────┐
+ │    Source    │
+ │   Git/GitHub │
+ └──────┬───────┘
+        │
+        ▼
+ ┌──────────────┐
+ │     CI/CD    │
+ │GitHub Actions│
+ └──────┬───────┘
+        │
+        ├───────────────┐
+        │               │
+        ▼               ▼
+ ┌──────────────┐ ┌──────────────┐
+ │    Security  │ │    Artifact  │
+ │ Scanning     │ │    / SBOM    │
+ └──────────────┘ └──────────────┘
+        │               │
+        └───────┬───────┘
+                │
+                ▼
+        ┌──────────────┐
+        │   Amazon ECR │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │    Argo CD   │
+        │    GitOps    │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │    AWS EKS   │
+        │  Kubernetes  │
+        └──────┬───────┘
+               │
+        ┌──────┴───────┐
+        │              │
+        ▼              ▼
+ ┌─────────────┐ ┌─────────────┐
+ │Observability│ │  Security   │
+ │Prometheus   │ │  Kyverno    │
+ │Grafana      │ │  Cosign     │
+ │Loki         │ │  Policies   │
+ └─────────────┘ └─────────────┘
+```
+
+---
+
+## 🧠 CORE COMPUTER SCIENCE
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Data Structures and Algorithms"/>
 
@@ -228,51 +391,85 @@ I enjoy automating infrastructure, improving deployment workflows, securing soft
 
 </div>
 
+**Foundations**
+
+`Data Structures & Algorithms` · `Operating Systems` · `Computer Networks` · `DBMS` · `Object-Oriented Programming` · `Cloud Computing`
+
 ---
+
+## 🎓 ADDITIONAL LEARNING
 
 <div align="center">
 
-## 📊   GITHUB ANALYTICS
+<img src="https://img.shields.io/badge/LFS158-Introduction_to_Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0F1689" alt="LFS158 Introduction to Kubernetes"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KaleeswarG25&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9" alt="GitHub statistics"/>
+<img src="https://img.shields.io/badge/LFS162-DevOps_%26_SRE-00C9A7?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=003B36" alt="LFS162 DevOps and SRE"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KaleeswarG25&theme=radical&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=FF6B6B&currStreakLabel=00E5FF" alt="GitHub contribution streak"/>
+<img src="https://img.shields.io/badge/LFS157-Serverless_on_Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0F1689" alt="LFS157 Serverless on Kubernetes"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaleeswarG25&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9&langs_count=10" alt="Top programming languages"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LFC108-Cybersecurity_Essentials-00A3E0?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=002B45" alt="Cybersecurity Essentials"/>
+
+<img src="https://img.shields.io/badge/LFD125-Security_for_Dev_Managers-DA3634?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=450000" alt="Security for Dev Managers"/>
+
+<img src="https://img.shields.io/badge/LFS180-Introduction_to_DevSecOps-00C9A7?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=003B36" alt="Introduction to DevSecOps"/>
+
+<img src="https://img.shields.io/badge/Fortinet-NSE_2_Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white&labelColor=4A0000" alt="Fortinet NSE 2"/>
 
 </div>
 
 ---
 
-## 💭   DEV QUOTE OF THE DAY
+## 📊 GITHUB
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Developer quote of the day"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KaleeswarG25&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="Kaleeswar G GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaleeswarG25&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="175" alt="Kaleeswar G top programming languages"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=KaleeswarG25&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
+## 🎯 CURRENTLY FOCUSED ON
+
 <div align="center">
 
-## 🤝   LET'S CONNECT & BUILD SOMETHING AMAZING!
+`AWS` • `Kubernetes` • `Terraform` • `DevOps` • `DevSecOps` • `GitOps` • `Observability`
+
+<br/><br/>
+
+**Building • Automating • Securing • Operating**
+
+</div>
+
+---
+
+## 🤝 LET'S CONNECT
+
+<div align="center">
 
 <a href="https://linkedin.com/in/kaleeswar-g-883379422">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:eswarjass1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" alt="Email"/>
 </a>
 
 <a href="https://github.com/KaleeswarG25">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-KaleeswarG25-181717?style=for-the-badge&logo=github&logoColor=white" height="42" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=00E5FF" width="100%" alt="Thanks for visiting"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=130&section=footer" width="100%" alt="Profile footer"/>
 
 <br/>
 
