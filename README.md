@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Kaleeswar%20G&fontSize=68&fontColor=00E5FF&fontAlignY=38&desc=Cloud%20%E2%80%A2%20DevOps%20%E2%80%A2%20DevSecOps%20Engineer&descAlignY=60&descSize=20" width="100%" alt="Kaleeswar G — Cloud, DevOps and DevSecOps Engineer"/>
 
@@ -31,9 +31,11 @@
 <a href="https://www.credly.com/badges/a9dd100d-a16b-44d7-9b6e-7727c79a8fd5">
 <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" height="45" alt="AWS Certified Solutions Architect Associate"/>
 </a>
+
 <a href="https://www.credly.com/badges/3957755b-397e-47b6-a2dc-6b8a63b1b98a">
 <img src="https://img.shields.io/badge/LFS158-Introduction_to_Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0F1689" height="45" alt="LFS158"/>
 </a>
+
 <a href="https://www.credly.com/badges/51a69ff5-5ef8-497d-8595-4c4e26ea97db">
 <img src="https://img.shields.io/badge/LFS162-DevOps_%26_SRE-00C9A7?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=003B36" height="45" alt="LFS162"/>
 </a>
@@ -41,20 +43,53 @@
 ### 🔐   Security & DevSecOps
 
 <img src="https://img.shields.io/badge/LFC108-Cybersecurity_Essentials-00A3E0?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=002B45" alt="Cybersecurity Essentials"/>
+
 <img src="https://img.shields.io/badge/LFD125-Security_for_Dev_Managers-DA3634?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=450000" alt="Security for Dev Managers"/>
+
 <img src="https://img.shields.io/badge/LFS180-Intro_to_DevSecOps-00C9A7?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=003B36" alt="Introduction to DevSecOps"/>
+
 <img src="https://img.shields.io/badge/Fortinet-NSE_2_Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white&labelColor=4A0000" alt="Fortinet NSE 2"/>
 
 ### ☁️   AWS Specializations
 
+<table>
+<tr>
+<td align="center">
+<img src="https://images.credly.com/images/6bf3f80e-4cba-4b4c-bf45-85aec42233ff/blob" width="130" alt="AWS Application Networking Demonstrated"/>
+<br/>
+<strong>AWS Application Networking Demonstrated</strong>
+<br/>
+<sub>Amazon Web Services Training and Certification</sub>
+</td>
+
+<td align="center">
+<img src="https://images.credly.com/images/8dd6f516-0dd3-4b5e-aacf-8e86e737a95d/blob" width="130" alt="AWS Cloud Quest: Networking - Training Badge"/>
+<br/>
+<strong>AWS Cloud Quest: Networking</strong>
+<br/>
+<sub>Amazon Web Services Training and Certification</sub>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/AWS_Incident-Response_Demonstrated-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Incident Response Demonstrated"/>
+<br/>
+<strong>AWS Incident Response Demonstrated</strong>
+<br/>
+<sub>Amazon Web Services Training and Certification</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
 <img src="https://img.shields.io/badge/AWS_Cloud_Quest-Networking-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Cloud Quest Networking"/>
+
 <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Cloud Practitioner Essentials"/>
-<img src="https://img.shields.io/badge/AWS_Application-Networking_Demonstrated-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS application networking"/>
-<img src="https://img.shields.io/badge/AWS_Incident-Response_Demonstrated-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS incident response"/>
 
 ### 🐧   Linux & Kubernetes
 
 <img src="https://img.shields.io/badge/LFS157-Serverless_on_Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0F1689" alt="LFS157"/>
+
 <img src="https://img.shields.io/badge/Cisco-Linux_Unhatched-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=003049" alt="Cisco Linux Unhatched"/>
 
 <br/><br/>
@@ -62,6 +97,7 @@
 <a href="https://www.credly.com/badges/a9dd100d-a16b-44d7-9b6e-7727c79a8fd5">
 <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="110" alt="AWS certification badge"/>
 </a>
+
 <img src="https://training.linuxfoundation.org/wp-content/uploads/2019/02/kubernetes.png" width="100" alt="Kubernetes learning badge"/>
 
 </div>
@@ -92,7 +128,6 @@ I enjoy automating infrastructure, improving deployment workflows, securing soft
 
 🔭 Exploring cloud-native infrastructure and production-style DevSecOps workflows
 
-
 <br clear="right"/>
 
 ---
@@ -103,26 +138,31 @@ I enjoy automating infrastructure, improving deployment workflows, securing soft
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 <img src="https://cdn-icons-png.flaticon.com/512/4149/4149678.png" width="65" alt="Cloud"/>
 <br/><strong>☁️ Cloud Engineering</strong>
 <br/><sub>AWS · Terraform · EKS · S3 · ECR</sub>
 </td>
+
 <td align="center" width="25%">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="65" alt="DevOps"/>
 <br/><strong>🚀 DevOps & GitOps</strong>
 <br/><sub>Docker · Kubernetes · Helm · Argo CD</sub>
 </td>
+
 <td align="center" width="25%">
 <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="65" alt="Security"/>
 <br/><strong>🔒 DevSecOps</strong>
 <br/><sub>Trivy · SonarQube · Gitleaks · Kyverno</sub>
 </td>
+
 <td align="center" width="25%">
 <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="65" alt="Backend"/>
 <br/><strong>⚙️ Backend</strong>
 <br/><sub>FastAPI · Python · Go · PostgreSQL</sub>
 </td>
+
 </tr>
 </table>
 
@@ -149,16 +189,23 @@ I enjoy automating infrastructure, improving deployment workflows, securing soft
 ### 🔐 DevSecOps & Supply Chain
 
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasec&logoColor=white" alt="Trivy"/>
+
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+
 <img src="https://img.shields.io/badge/Gitleaks-FF6B6B?style=for-the-badge&logo=git&logoColor=white" alt="Gitleaks"/>
+
 <img src="https://img.shields.io/badge/Syft-2C6BED?style=for-the-badge&logo=anchore&logoColor=white" alt="Syft"/>
+
 <img src="https://img.shields.io/badge/Cosign-326CE5?style=for-the-badge&logo=sigstore&logoColor=white" alt="Cosign"/>
+
 <img src="https://img.shields.io/badge/Kyverno-2C6BED?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kyverno"/>
 
 ### 📊 Observability
 
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+
 <img src="https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki"/>
 
 </div>
@@ -170,9 +217,13 @@ I enjoy automating infrastructure, improving deployment workflows, securing soft
 ## 🧠   CORE CS FUNDAMENTALS
 
 <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Data Structures and Algorithms"/>
+
 <img src="https://img.shields.io/badge/Computer_Networks-00C9A7?style=for-the-badge&labelColor=0D1117" alt="Computer Networks"/>
+
 <img src="https://img.shields.io/badge/Operating_Systems-326CE5?style=for-the-badge&labelColor=0D1117" alt="Operating Systems"/>
+
 <img src="https://img.shields.io/badge/DBMS-9D4EDD?style=for-the-badge&labelColor=0D1117" alt="DBMS"/>
+
 <img src="https://img.shields.io/badge/Cloud_Computing-FF9900?style=for-the-badge&labelColor=0D1117" alt="Cloud Computing"/>
 
 </div>
@@ -195,6 +246,8 @@ I enjoy automating infrastructure, improving deployment workflows, securing soft
 
 ## 💭   DEV QUOTE OF THE DAY
 
+<div align="center">
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Developer quote of the day"/>
 
 </div>
@@ -208,9 +261,11 @@ I enjoy automating infrastructure, improving deployment workflows, securing soft
 <a href="https://linkedin.com/in/kaleeswar-g-883379422">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:eswarjass1@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email"/>
 </a>
+
 <a href="https://github.com/KaleeswarG25">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub"/>
 </a>
