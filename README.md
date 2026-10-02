@@ -30,11 +30,11 @@
 
 </div>
 
-I'm **Kaleeswar G**, a Computer Science undergraduate at **PSG College of Technology** with a strong focus on **Cloud Engineering, DevOps, DevSecOps, Kubernetes, and Infrastructure Automation**.
+I'm **Kaleeswar G**, a Computer Science undergraduate at **PSG College of Technology** focused on **Cloud Engineering, DevOps, DevSecOps, Kubernetes, and Infrastructure Automation**.
 
-I enjoy designing and automating cloud-native environments across the complete engineering lifecycle — from **infrastructure provisioning and containerization to CI/CD, GitOps, security, observability, and production operations**.
+I enjoy designing and automating cloud environments across the engineering lifecycle — from **infrastructure provisioning and containerization to CI/CD, GitOps, security, observability, and operations**.
 
-My goal is to build systems that are:
+My focus is on building systems that are:
 
 ```text
 Reliable     →     Automated     →     Secure     →     Observable     →     Scalable
@@ -73,7 +73,11 @@ Reliable     →     Automated     →     Secure     →     Observable     →
 
 <td align="center" width="33%">
 
+<a href="https://www.credly.com/badges/fd941740-1d07-4615-b851-a3ddf50cd739/public_url">
+
 <img src="https://images.credly.com/images/6bf3f80e-4cba-4b4c-bf45-85aec42233ff/blob" width="130" alt="AWS Application Networking Demonstrated"/>
+
+</a>
 
 <br/><br/>
 
@@ -124,7 +128,7 @@ Reliable     →     Automated     →     Secure     →     Observable     →
 
 ---
 
-## 🛠️ TECHNICAL EXPERTISE
+# 🛠️ TECHNICAL FOCUS
 
 ### ☁️ Cloud & Infrastructure
 
@@ -134,9 +138,13 @@ Reliable     →     Automated     →     Secure     →     Observable     →
 
 </div>
 
-**AWS**
+**Amazon Web Services**
 
-`EC2` · `VPC` · `IAM` · `S3` · `RDS` · `ECR` · `EKS` · `ALB` · `CloudWatch` · `CloudTrail` · `Route 53` · `Secrets Manager` · `KMS`
+`Cloud Architecture` · `Compute` · `Networking` · `Storage` · `Databases` · `IAM` · `Containers` · `Serverless` · `Monitoring` · `Security` · `Application Integration` · `Infrastructure`
+
+**AWS technologies & services**
+
+`EC2` · `VPC` · `IAM` · `S3` · `RDS` · `ECR` · `EKS` · `ALB` · `Route 53` · `CloudWatch` · `CloudTrail` · `Secrets Manager` · `KMS` · `and more`
 
 **Infrastructure as Code**
 
@@ -152,7 +160,7 @@ Reliable     →     Automated     →     Secure     →     Observable     →
 
 </div>
 
-`Docker` · `Kubernetes` · `Amazon EKS` · `Helm` · `Ingress` · `RBAC` · `HPA` · `PDB` · `ConfigMaps` · `Secrets` · `ServiceAccounts` · `Network Policies`
+`Docker` · `Kubernetes` · `Amazon EKS` · `Helm` · `Ingress` · `Services` · `Deployments` · `RBAC` · `HPA` · `PDB` · `ConfigMaps` · `Secrets` · `ServiceAccounts` · `Network Policies`
 
 ---
 
@@ -164,7 +172,11 @@ Reliable     →     Automated     →     Secure     →     Observable     →
 
 </div>
 
-`Git` · `GitHub` · `GitHub Actions` · `CI/CD` · `Argo CD` · `GitOps` · `Helm-based Deployment`
+`Git` · `GitHub` · `GitHub Actions` · `CI/CD` · `Argo CD` · `GitOps` · `Helm` · `Automated Deployments`
+
+**Engineering practices**
+
+`Build Automation` · `Release Automation` · `Deployment Automation` · `Environment Management` · `GitOps Workflows`
 
 ---
 
@@ -188,7 +200,7 @@ Reliable     →     Automated     →     Secure     →     Observable     →
 
 **Security capabilities**
 
-`Secret Detection` · `Container Security` · `SAST` · `SBOM` · `Image Signing` · `Provenance` · `Admission Control` · `Kubernetes Policy Enforcement` · `Supply Chain Security`
+`Secret Detection` · `SAST` · `Container Scanning` · `SBOM Generation` · `Image Signing` · `Artifact Verification` · `Provenance` · `Admission Control` · `Kubernetes Policy Enforcement` · `Software Supply Chain Security`
 
 ---
 
@@ -200,11 +212,13 @@ Reliable     →     Automated     →     Secure     →     Observable     →
 
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
 
-<img src="https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki"/>
+<img src="https://img.shields.io/badge/Loki-FFB000?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki"/>
 
 </div>
 
-`Prometheus` · `Grafana` · `Loki` · `Promtail` · `Node Exporter` · `cAdvisor` · `Metrics` · `Logs` · `Dashboards` · `Alerting`
+`Prometheus` · `Grafana` · `Loki` · `Promtail` · `Node Exporter` · `cAdvisor`
+
+`Metrics` · `Logs` · `Dashboards` · `Alerting` · `Infrastructure Monitoring` · `Container Monitoring`
 
 ---
 
@@ -216,7 +230,7 @@ Reliable     →     Automated     →     Secure     →     Observable     →
 
 </div>
 
-`Python` · `C` · `Go` · `Bash` · `FastAPI` · `REST APIs`
+`Python` · `C` · `Go` · `Bash` · `FastAPI` · `REST APIs` · `Backend Development`
 
 ---
 
@@ -230,6 +244,8 @@ Reliable     →     Automated     →     Secure     →     Observable     →
 
 `PostgreSQL` · `MySQL` · `MongoDB`
 
+`SQL` · `Database Design` · `Querying` · `Indexing` · `Transactions` · `Data Modeling`
+
 ---
 
 ### 🐧 Linux & Networking
@@ -241,137 +257,6 @@ Reliable     →     Automated     →     Secure     →     Observable     →
 </div>
 
 `Linux` · `TCP/IP` · `DNS` · `HTTP/HTTPS` · `TLS` · `Routing` · `Subnetting` · `Load Balancing` · `Network Troubleshooting`
-
----
-
-## 🏗️ ENGINEERING FOCUS
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### ☁️
-
-**Cloud**
-
-AWS
-EKS
-VPC
-IAM
-ECR
-S3
-RDS
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-**Automation**
-
-Terraform
-Docker
-CI/CD
-GitHub Actions
-Helm
-Argo CD
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔐
-
-**Security**
-
-Trivy
-Gitleaks
-Cosign
-Syft
-Kyverno
-SonarQube
-
-</td>
-
-<td align="center" width="25%">
-
-### 📊
-
-**Operations**
-
-Prometheus
-Grafana
-Loki
-Logging
-Metrics
-Alerting
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-## 🔄 CLOUD-NATIVE ENGINEERING
-
-```text
-                         SOFTWARE DELIVERY LIFECYCLE
-
- ┌──────────────┐
- │    Source    │
- │   Git/GitHub │
- └──────┬───────┘
-        │
-        ▼
- ┌──────────────┐
- │     CI/CD    │
- │GitHub Actions│
- └──────┬───────┘
-        │
-        ├───────────────┐
-        │               │
-        ▼               ▼
- ┌──────────────┐ ┌──────────────┐
- │    Security  │ │    Artifact  │
- │ Scanning     │ │    / SBOM    │
- └──────────────┘ └──────────────┘
-        │               │
-        └───────┬───────┘
-                │
-                ▼
-        ┌──────────────┐
-        │   Amazon ECR │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │    Argo CD   │
-        │    GitOps    │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │    AWS EKS   │
-        │  Kubernetes  │
-        └──────┬───────┘
-               │
-        ┌──────┴───────┐
-        │              │
-        ▼              ▼
- ┌─────────────┐ ┌─────────────┐
- │Observability│ │  Security   │
- │Prometheus   │ │  Kyverno    │
- │Grafana      │ │  Cosign     │
- │Loki         │ │  Policies   │
- └─────────────┘ └─────────────┘
-```
 
 ---
 
@@ -417,35 +302,25 @@ Alerting
 
 <img src="https://img.shields.io/badge/Fortinet-NSE_2_Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white&labelColor=4A0000" alt="Fortinet NSE 2"/>
 
-</div>
-
----
-
-## 📊 GITHUB
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KaleeswarG25&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="175" alt="Kaleeswar G GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaleeswarG25&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="175" alt="Kaleeswar G top programming languages"/>
-
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=KaleeswarG25&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/badge/Cisco-Linux_Unhatched-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=003B5C" alt="Cisco Linux Unhatched"/>
+
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Cloud Practitioner Essentials"/>
 
 </div>
 
 ---
 
-## 🎯 CURRENTLY FOCUSED ON
+## 🎯 CURRENT FOCUS
 
 <div align="center">
 
-`AWS` • `Kubernetes` • `Terraform` • `DevOps` • `DevSecOps` • `GitOps` • `Observability`
+`AWS Cloud` • `Kubernetes` • `Terraform` • `DevOps` • `DevSecOps` • `GitOps` • `Observability`
 
 <br/><br/>
 
-**Building • Automating • Securing • Operating**
+### BUILD • AUTOMATE • SECURE • OBSERVE
 
 </div>
 
@@ -473,6 +348,6 @@ Alerting
 
 <br/>
 
-<sub>Cloud Native • Automation First • Security by Design</sub>
+<sub>Cloud Engineering • Automation First • Security by Design</sub>
 
 </div>
