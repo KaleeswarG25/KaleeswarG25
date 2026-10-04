@@ -121,14 +121,12 @@ alt="AWS Cloud Quest Networking"
 
 <!-- AWS Incident Response Demonstrated -->
 <td align="center" width="33%">
-
 <a href="https://www.credly.com/org/amazon-web-services/badge/aws-incident-response-demonstrated">
-
-<img
-src="https://images.credly.com/images/8dd6f516-0dd3-4b4c-bf45-85aec42233ff/blob"
-width="130"
-alt="AWS Incident Response Demonstrated"
-/>
+  <img
+    src="https://images.credly.com/images/8dd6f516-0dd3-4b4c-bf45-85aec42233ff/blob"
+    width="130"
+    alt="AWS Incident Response Demonstrated"
+  />
 
 </a>
 
