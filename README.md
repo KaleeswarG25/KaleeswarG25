@@ -104,7 +104,7 @@ Reliable     →     Automated     →     Secure     →     Observable     →
 </td>
 
 <td align="center" width="33%">
-
+<img src="https://www.credly.com/badges/74e16f83-a6d5-4629-9c3d-3fbf1c44598b/public_url" width="130" alt="AWS Incident Response Demonstrated"/>
 <img src="https://img.shields.io/badge/AWS_Incident_Response-Demonstrated-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Incident Response Demonstrated"/>
 
 <br/><br/>
