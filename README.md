@@ -75,7 +75,11 @@ Reliable     →     Automated     →     Secure     →     Observable     →
 
 <a href="https://www.credly.com/badges/fd941740-1d07-4615-b851-a3ddf50cd739/public_url">
 
-<img src="https://images.credly.com/images/6bf3f80e-4cba-4b4c-bf45-85aec42233ff/blob" width="130" alt="AWS Application Networking Demonstrated"/>
+<img
+src="https://images.credly.com/images/6bf3f80e-4cba-4b4c-bf45-85aec42233ff/blob"
+width="130"
+alt="AWS Application Networking Demonstrated"
+/>
 
 </a>
 
@@ -89,9 +93,18 @@ Reliable     →     Automated     →     Secure     →     Observable     →
 
 </td>
 
+
 <td align="center" width="33%">
 
-<img src="https://images.credly.com/images/8dd6f516-0dd3-4b5e-aacf-8e86e737a95d/blob" width="130" alt="AWS Cloud Quest Networking"/>
+<a href="https://www.credly.com/badges/8dd6f516-0dd3-4b5e-aacf-8e86e737a95d/public_url">
+
+<img
+src="https://images.credly.com/images/8dd6f516-0dd3-4b5e-aacf-8e86e737a95d/blob"
+width="130"
+alt="AWS Cloud Quest Networking"
+/>
+
+</a>
 
 <br/><br/>
 
@@ -103,9 +116,18 @@ Reliable     →     Automated     →     Secure     →     Observable     →
 
 </td>
 
+
 <td align="center" width="33%">
-<img src="https://www.credly.com/badges/74e16f83-a6d5-4629-9c3d-3fbf1c44598b/public_url" width="130" alt="AWS Incident Response Demonstrated"/>
-<img src="https://img.shields.io/badge/AWS_Incident_Response-Demonstrated-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Incident Response Demonstrated"/>
+
+<a href="https://www.credly.com/badges/74e16f83-a6d5-4629-9c3d-3fbf1c44598b/public_url">
+
+<img
+src="https://images.credly.com/images/74e16f83-a6d5-4629-9c3d-3fbf1c44598b/blob"
+width="130"
+alt="AWS Incident Response Demonstrated"
+/>
+
+</a>
 
 <br/><br/>
 
@@ -119,7 +141,6 @@ Reliable     →     Automated     →     Secure     →     Observable     →
 
 </tr>
 </table>
-
 <br/>
 
 <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Cloud Practitioner Essentials"/>
