@@ -224,7 +224,7 @@ alt="AWS Cloud Quest Networking"
 
 **Security capabilities**
 
-`Secret Detection` · `SAST` · `Container Scanning` · `SBOM Generation` · `Image Signing` · `Artifact Verification` · `Provenance` · `Admission Control` · `Kubernetes Policy Enforcement` · `Software Supply Chain Security`
+`Secret Detection` · `Container Scanning` · `SBOM Generation` · `Image Signing` · `Artifact Verification` · `Provenance` · `Admission Control` · `Kubernetes Policy Enforcement` · `Software Supply Chain Security`
 
 ---
 
