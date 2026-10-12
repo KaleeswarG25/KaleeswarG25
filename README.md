@@ -72,90 +72,48 @@ Reliable     →     Automated     →     Secure     →     Observable     →
 <table>
 <tr>
 
-<!-- AWS Application Networking Demonstrated -->
 <td align="center" width="33%">
-
 <a href="https://www.credly.com/badges/fd941740-1d07-4615-b851-a3ddf50cd739/public_url">
-
-<img
-src="https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/images/certification-badges/Application-Networking.1c91b907131151b234af979c01d42104a9b53a96.png"
-width="130"
-alt="AWS Application Networking Demonstrated"
-/>
-
+<img src="https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/images/certification-badges/Application-Networking.1c91b907131151b234af979c01d42104a9b53a96.png" width="130" alt="AWS Application Networking Demonstrated"/>
 </a>
-
 <br/><br/>
-
 <strong>AWS Application Networking Demonstrated</strong>
-
 <br/>
-
 <sub>Amazon Web Services Training and Certification</sub>
-
 </td>
 
-<!-- AWS Cloud Quest: Networking -->
 <td align="center" width="33%">
-
 <a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-networking-training-badge">
-
-<img
-src="https://images.credly.com/images/6bf3f80e-4cba-4b4c-bf45-85aec42233ff/blob"
-width="130"
-alt="AWS Cloud Quest Networking"
-/>
-
+<img src="https://images.credly.com/images/6bf3f80e-4cba-4b4c-bf45-85aec42233ff/blob" width="130" alt="AWS Cloud Quest Networking"/>
 </a>
-
 <br/><br/>
-
 <strong>AWS Cloud Quest: Networking</strong>
-
 <br/>
-
 <sub>Amazon Web Services Training and Certification</sub>
-
 </td>
 
-<!-- AWS Cloud Quest: Cloud Practitioner -->
 <td align="center" width="33%">
-
-<a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner">
-
-<img
-src="https://images.credly.com/images/6bf3f80e-4cba-4b4c-bf45-85aec42233ff/blob"
-width="130"
-alt="AWS Cloud Quest Cloud Practitioner"
-/>
-
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge">
+<img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="130" alt="AWS Cloud Quest Cloud Practitioner"/>
 </a>
-
 <br/><br/>
-
 <strong>AWS Cloud Quest: Cloud Practitioner</strong>
-
 <br/>
-
 <sub>Amazon Web Services Training and Certification</sub>
-
 </td>
 
 </tr>
-
 <tr>
 
-<!-- AWS Incident Response Demonstrated -->
+
 <td align="center" width="33%">
 
-<a href="https://www.credly.com/org/amazon-web-services/badge/aws-incident-response-demonstrated">
-
+<a href="https://www.credly.com/badges/74e16f83-a6d5-4629-9c3d-3fbf1c44598b/public_url">
 <img
 src="https://images.credly.com/images/8dd6f516-0dd3-4b4c-bf45-85aec42233ff/blob"
 width="130"
 alt="AWS Incident Response Demonstrated"
 />
-
 </a>
 
 <br/><br/>
@@ -167,6 +125,7 @@ alt="AWS Incident Response Demonstrated"
 <sub>Amazon Web Services Training and Certification</sub>
 
 </td>
+
 
 <td align="center" width="33%"></td>
 <td align="center" width="33%"></td>
