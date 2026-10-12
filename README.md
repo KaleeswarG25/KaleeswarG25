@@ -64,6 +64,7 @@ Reliable     →     Automated     →     Secure     →     Observable     →
 
 ---
 
+
 ## 🏅 AWS TRAINING & DEMONSTRATED SKILLS
 
 <div align="center">
@@ -94,7 +95,6 @@ alt="AWS Application Networking Demonstrated"
 
 </td>
 
-
 <!-- AWS Cloud Quest: Networking -->
 <td align="center" width="33%">
 
@@ -118,15 +118,43 @@ alt="AWS Cloud Quest Networking"
 
 </td>
 
+<!-- AWS Cloud Quest: Cloud Practitioner -->
+<td align="center" width="33%">
+
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner">
+
+<img
+src="https://images.credly.com/images/6bf3f80e-4cba-4b4c-bf45-85aec42233ff/blob"
+width="130"
+alt="AWS Cloud Quest Cloud Practitioner"
+/>
+
+</a>
+
+<br/><br/>
+
+<strong>AWS Cloud Quest: Cloud Practitioner</strong>
+
+<br/>
+
+<sub>Amazon Web Services Training and Certification</sub>
+
+</td>
+
+</tr>
+
+<tr>
 
 <!-- AWS Incident Response Demonstrated -->
 <td align="center" width="33%">
+
 <a href="https://www.credly.com/org/amazon-web-services/badge/aws-incident-response-demonstrated">
-  <img
-    src="https://images.credly.com/images/8dd6f516-0dd3-4b4c-bf45-85aec42233ff/blob"
-    width="130"
-    alt="AWS Incident Response Demonstrated"
-  />
+
+<img
+src="https://images.credly.com/images/8dd6f516-0dd3-4b4c-bf45-85aec42233ff/blob"
+width="130"
+alt="AWS Incident Response Demonstrated"
+/>
 
 </a>
 
@@ -140,15 +168,18 @@ alt="AWS Cloud Quest Networking"
 
 </td>
 
+<td align="center" width="33%"></td>
+<td align="center" width="33%"></td>
+
 </tr>
 </table>
-
 
 <br/>
 
 <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Cloud Practitioner Essentials"/>
 
 </div>
+
 
 ---
 
