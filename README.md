@@ -97,7 +97,6 @@ DESIGN → AUTOMATE → DEPLOY → SECURE → MONITOR → IMPROVE
 <img src="./assets/aws-generative-ai-practitioner.png" width="130" alt="AWS Cloud Quest Generative AI Practitioner badge"/>
 </a>
 <br/><br/><strong>AWS Cloud Quest: Generative AI Practitioner</strong><br/><sub>AWS Training and Certification</sub>
-<br/><a href="https://www.linkedin.com/posts/madrasi_aws-cloud-quest-generative-ai-practitioner-activity-7355217137684094976-RCwt">View LinkedIn Post</a>
 </td>
 <td align="center" width="33%"></td>
 </tr>
