@@ -1,0 +1,296 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=270&section=header&text=Kaleeswar%20G&fontSize=68&fontColor=00E5FF&fontAlignY=38&desc=Cloud%20%E2%80%A2%20DevOps%20%E2%80%A2%20DevSecOps%20Engineer&descAlignY=60&descSize=20" width="100%" alt="Kaleeswar G — Cloud DevOps DevSecOps Engineer"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=AWS+Certified+Solutions+Architect+-+Associate;Cloud+Infrastructure+%7C+DevOps+%7C+DevSecOps;Kubernetes+%7C+Terraform+%7C+GitOps;Automation+%7C+Security+%7C+Observability" alt="Animated introduction"/>
+
+<br/><br/>
+
+<a href="https://github.com/KaleeswarG25"><img src="https://img.shields.io/badge/GitHub-KaleeswarG25-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/kaleeswar-g-883379422"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:eswarjass1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 👨‍💻 CLOUD • DEVOPS • DEVSECOPS
+
+### Building Reliable, Automated & Secure Cloud Systems
+
+</div>
+
+I'm **Kaleeswar G**, a Computer Science and Engineering undergraduate at **PSG College of Technology**, focused on Cloud Engineering, DevOps, DevSecOps, Kubernetes, and Infrastructure Automation.
+
+I enjoy building practical engineering solutions that bring together cloud infrastructure, containerization, CI/CD pipelines, GitOps, security automation, and observability.
+
+My goal is to develop systems that are reliable, secure, maintainable, and scalable.
+
+```text
+DESIGN → AUTOMATE → DEPLOY → SECURE → MONITOR → IMPROVE
+```
+
+- 🎓 **Degree:** B.E. Computer Science & Engineering
+- 🏛️ **Institution:** PSG College of Technology
+- 📅 **Expected Graduation:** 2027
+- 📍 **Location:** Coimbatore, Tamil Nadu, India
+- ☁️ **Primary Focus:** AWS Cloud & DevOps Engineering
+
+---
+
+## ☁️ AWS CERTIFICATION
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/a9dd100d-a16b-44d7-9b6e-7727c79a8fd5">
+<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="155" alt="AWS Certified Solutions Architect Associate"/>
+</a>
+
+### AWS Certified Solutions Architect – Associate
+
+**Amazon Web Services**
+
+<a href="https://www.credly.com/badges/a9dd100d-a16b-44d7-9b6e-7727c79a8fd5"><img src="https://img.shields.io/badge/Verify_Certification-Credly-00A3E0?style=for-the-badge&logo=credly&logoColor=white" alt="Verify AWS certification"/></a>
+
+</div>
+
+---
+
+## 🏅 AWS TRAINING & DEMONSTRATED SKILLS
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://www.credly.com/badges/fd941740-1d07-4615-b851-a3ddf50cd739/public_url">
+<img src="./assets/aws-application-networking.png" width="130" alt="AWS Application Networking Demonstrated badge"/>
+</a>
+<br/><br/><strong>AWS Application Networking Demonstrated</strong><br/><sub>AWS Training and Certification</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-networking-training-badge">
+<img src="https://images.credly.com/images/6bf3f80e-4cba-4b4c-bf45-85aec42233ff/blob" width="130" alt="AWS Cloud Quest Networking"/>
+</a>
+<br/><br/><strong>AWS Cloud Quest: Networking</strong><br/><sub>AWS Training and Certification</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-cloud-practitioner-training-badge">
+<img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="130" alt="AWS Cloud Quest Cloud Practitioner"/>
+</a>
+<br/><br/><strong>AWS Cloud Quest: Cloud Practitioner</strong><br/><sub>AWS Training and Certification</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="https://www.credly.com/badges/74e16f83-a6d5-4629-9c3d-3fbf1c44598b/public_url">
+<img src="./assets/aws-incident-response.png" width="130" alt="AWS Incident Response Demonstrated badge"/>
+</a>
+<br/><br/><strong>AWS Incident Response Demonstrated</strong><br/><sub>AWS Training and Certification</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://www.linkedin.com/posts/madrasi_aws-cloud-quest-generative-ai-practitioner-activity-7355217137684094976-RCwt">
+<img src="./assets/aws-generative-ai-practitioner.png" width="130" alt="AWS Cloud Quest Generative AI Practitioner badge"/>
+</a>
+<br/><br/><strong>AWS Cloud Quest: Generative AI Practitioner</strong><br/><sub>AWS Training and Certification</sub>
+<br/><a href="https://www.linkedin.com/posts/madrasi_aws-cloud-quest-generative-ai-practitioner-activity-7355217137684094976-RCwt">View LinkedIn Post</a>
+</td>
+<td align="center" width="33%"></td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://share.google/O4qSNSk5SuF7qVK6V"><img src="https://img.shields.io/badge/Additional_Resource-Explore-00C9A7?style=for-the-badge&logo=google&logoColor=white" alt="Additional Google resource"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Cloud Practitioner Essentials"/>
+
+</div>
+
+---
+
+# 🛠️ TECHNICAL FOCUS
+
+## ☁️ Cloud & Infrastructure
+
+<div align="center"><img src="https://skillicons.dev/icons?i=aws,terraform&theme=dark&perline=5" alt="AWS and Terraform"/></div>
+
+**Amazon Web Services**
+
+`Cloud Architecture` · `Compute` · `Networking` · `Storage` · `Databases` · `IAM` · `Containers` · `Serverless` · `Monitoring` · `Security` · `Application Integration`
+
+**AWS Technologies & Services**
+
+`EC2` · `VPC` · `IAM` · `S3` · `RDS` · `ECR` · `EKS` · `ALB` · `Route 53` · `CloudWatch` · `CloudTrail` · `Secrets Manager` · `KMS`
+
+**Infrastructure as Code**
+
+`Terraform` · `Infrastructure Provisioning` · `Reusable Configuration` · `Environment Management`
+
+---
+
+## ☸️ Containers & Kubernetes
+
+<div align="center"><img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,nginx&theme=dark&perline=6" alt="Docker Kubernetes Helm Nginx"/></div>
+
+`Docker` · `Kubernetes` · `Amazon EKS` · `Helm` · `Ingress` · `Services` · `Deployments` · `RBAC` · `HPA` · `PDB` · `ConfigMaps` · `Secrets` · `ServiceAccounts` · `Network Policies`
+
+**Areas of Focus**
+- Containerization and image management
+- Kubernetes workload deployment and management
+- Application configuration and service discovery
+- Resource management and horizontal scaling
+- Access control and workload security
+- Helm-based application packaging and deployment
+
+---
+
+## 🚀 CI/CD & GitOps
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark&perline=6" alt="Git GitHub GitHub Actions"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Argo_CD-GitOps-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD"/>
+</div>
+
+`Git` · `GitHub` · `GitHub Actions` · `Jenkins` · `CI/CD` · `Argo CD` · `GitOps` · `Helm` · `Automated Deployments`
+
+**Engineering Practices**
+
+`Build Automation` · `Release Automation` · `Deployment Automation` · `Environment Management` · `Version Control` · `GitOps Workflows`
+
+---
+
+## 🔐 DevSecOps & Software Supply Chain
+
+<div align="center">
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasec&logoColor=white" alt="Trivy"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+<img src="https://img.shields.io/badge/Gitleaks-FF6B6B?style=for-the-badge&logo=git&logoColor=white" alt="Gitleaks"/>
+<img src="https://img.shields.io/badge/Syft-2C6BED?style=for-the-badge&logo=anchore&logoColor=white" alt="Syft"/>
+<img src="https://img.shields.io/badge/Cosign-326CE5?style=for-the-badge&logo=sigstore&logoColor=white" alt="Cosign"/>
+<img src="https://img.shields.io/badge/Kyverno-2C6BED?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kyverno"/>
+</div>
+
+**Security Focus Areas**
+
+`Secret Detection` · `Container Scanning` · `SBOM Generation` · `Image Signing` · `Artifact Verification` · `Provenance` · `Admission Control` · `Kubernetes Policy Enforcement` · `Software Supply Chain Security`
+
+---
+
+## 📊 Observability & Reliability
+
+<div align="center">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+<img src="https://img.shields.io/badge/Loki-FFB000?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki"/>
+</div>
+
+`Prometheus` · `Grafana` · `Loki` · `Promtail` · `Node Exporter` · `cAdvisor`
+
+**Observability Concepts**
+
+`Metrics` · `Logs` · `Dashboards` · `Alerting` · `Infrastructure Monitoring` · `Container Monitoring` · `Performance Analysis`
+
+---
+
+## 💻 Programming & Backend
+
+<div align="center"><img src="https://skillicons.dev/icons?i=python,c,go,bash,fastapi&theme=dark&perline=8" alt="Python C Go Bash FastAPI"/></div>
+
+`Python` · `C` · `Go` · `Bash` · `FastAPI` · `REST APIs` · `Backend Development`
+
+---
+
+## 🗄️ Databases
+
+<div align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark&perline=6" alt="PostgreSQL MySQL MongoDB"/></div>
+
+`PostgreSQL` · `MySQL` · `MongoDB`
+
+`SQL` · `Database Design` · `Querying` · `Indexing` · `Transactions` · `Data Modeling`
+
+---
+
+## 🐧 Linux & Networking
+
+<div align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux"/></div>
+
+`Linux` · `TCP/IP` · `DNS` · `HTTP/HTTPS` · `TLS` · `Routing` · `Subnetting` · `Load Balancing` · `Network Troubleshooting`
+
+---
+
+## 🧠 CORE COMPUTER SCIENCE
+
+<div align="center">
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Data Structures and Algorithms"/>
+<img src="https://img.shields.io/badge/Computer_Networks-00C9A7?style=for-the-badge&labelColor=0D1117" alt="Computer Networks"/>
+<img src="https://img.shields.io/badge/Operating_Systems-326CE5?style=for-the-badge&labelColor=0D1117" alt="Operating Systems"/>
+<img src="https://img.shields.io/badge/DBMS-9D4EDD?style=for-the-badge&labelColor=0D1117" alt="DBMS"/>
+<img src="https://img.shields.io/badge/Cloud_Computing-FF9900?style=for-the-badge&labelColor=0D1117" alt="Cloud Computing"/>
+</div>
+
+**Foundations**
+
+`Data Structures & Algorithms` · `Operating Systems` · `Computer Networks` · `DBMS` · `Object-Oriented Programming` · `Cloud Computing`
+
+---
+
+## 🎓 ADDITIONAL LEARNING
+
+<div align="center">
+<img src="https://img.shields.io/badge/LFS158-Introduction_to_Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0F1689" alt="LFS158 Introduction to Kubernetes"/>
+<img src="https://img.shields.io/badge/LFS162-DevOps_%26_SRE-00C9A7?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=003B36" alt="LFS162 DevOps and SRE"/>
+<img src="https://img.shields.io/badge/LFS157-Serverless_on_Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0F1689" alt="LFS157 Serverless on Kubernetes"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/LFC108-Cybersecurity_Essentials-00A3E0?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=002B45" alt="Cybersecurity Essentials"/>
+<img src="https://img.shields.io/badge/LFD125-Security_for_Dev_Managers-DA3634?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=450000" alt="Security for Dev Managers"/>
+<img src="https://img.shields.io/badge/LFS180-Introduction_to_DevSecOps-00C9A7?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=003B36" alt="Introduction to DevSecOps"/>
+<img src="https://img.shields.io/badge/Fortinet-NSE_2_Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white&labelColor=4A0000" alt="Fortinet NSE 2"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Cisco-Linux_Unhatched-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=003B5C" alt="Cisco Linux Unhatched"/>
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Cloud Practitioner Essentials"/>
+</div>
+
+---
+
+## 🎯 CURRENT FOCUS
+
+<div align="center">
+<img src="https://img.shields.io/badge/AWS-Cloud_Engineering-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Engineering"/>
+<img src="https://img.shields.io/badge/Kubernetes-Container_Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Terraform-Infrastructure_as_Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/GitOps-Declarative_Deployments-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="GitOps"/>
+<br/><br/>
+### BUILD • AUTOMATE • SECURE • OBSERVE
+
+*Turning cloud engineering concepts into practical, reproducible implementations.*
+</div>
+
+---
+
+## 🤝 LET'S CONNECT
+
+<div align="center">
+
+I'm interested in cloud infrastructure, DevOps automation, Kubernetes, CI/CD, and cloud security. I'm always looking to learn, build practical projects, and connect with engineers working on real-world infrastructure challenges.
+
+<br/>
+
+<a href="https://linkedin.com/in/kaleeswar-g-883379422"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42" alt="LinkedIn"/></a>
+<a href="mailto:eswarjass1@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" alt="Email"/></a>
+<a href="https://github.com/KaleeswarG25"><img src="https://img.shields.io/badge/GitHub-KaleeswarG25-181717?style=for-the-badge&logo=github&logoColor=white" height="42" alt="GitHub"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=130&section=footer" width="100%" alt="Profile footer"/>
+
+<sub>Cloud Engineering • Automation First • Security by Design</sub>
+
+</div>
