@@ -59,7 +59,6 @@ DESIGN → AUTOMATE → DEPLOY → SECURE → MONITOR → IMPROVE
 </div>
 
 ---
-
 ## 🏅 AWS TRAINING & DEMONSTRATED SKILLS
 
 <div align="center">
@@ -98,20 +97,23 @@ DESIGN → AUTOMATE → DEPLOY → SECURE → MONITOR → IMPROVE
 </a>
 <br/><br/><strong>AWS Cloud Quest: Generative AI Practitioner</strong><br/><sub>AWS Training and Certification</sub>
 </td>
-<td align="center" width="33%"></td>
+<td align="center" width="33%">
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-cloud-quest-serverless-developer-training-badge">
+<img src="./assets/Serverless%20Developer.png" width="130" alt="AWS Cloud Quest Serverless Developer badge"/>
+</a>
+<br/><br/><strong>AWS Cloud Quest: Serverless Developer</strong><br/><sub>AWS Training and Certification</sub>
+</td>
 </tr>
 </table>
 
 <br/>
 
-<a href="https://share.google/O4qSNSk5SuF7qVK6V"><img src="https://img.shields.io/badge/Additional_Resource-Explore-00C9A7?style=for-the-badge&logo=google&logoColor=white" alt="Additional Google resource"/></a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Cloud Practitioner Essentials"/>
 
 </div>
-
 ---
 
 # 🛠️ TECHNICAL FOCUS
