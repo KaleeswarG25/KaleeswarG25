@@ -114,6 +114,82 @@ DESIGN → AUTOMATE → DEPLOY → SECURE → MONITOR → IMPROVE
 <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Cloud Practitioner Essentials"/>
 
 </div>
+<h2 align="center">🏆 CLOUD ENGINEERING • DEVOPS • PLATFORM AUTOMATION</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CLOUD-CERTIFICATIONS-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Cloud Certifications"/>
+  <img src="https://img.shields.io/badge/DEVOPS-AUTOMATION-7B61FF?style=for-the-badge&labelColor=0D1117" alt="DevOps Automation"/>
+  <img src="https://img.shields.io/badge/DELIVERY-GITOPS-00C9A7?style=for-the-badge&labelColor=0D1117" alt="Continuous Delivery and GitOps"/>
+</p>
+
+<p align="center">
+  <em>Demonstrating skills in cloud cost optimization, database DevOps, infrastructure automation, and modern software delivery.</em>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://images.credly.com/images/74906bef-749e-4e7e-b0a5-ae2f6eff5a06/image.png">
+        <img src="https://images.credly.com/images/74906bef-749e-4e7e-b0a5-ae2f6eff5a06/image.png" width="145" alt="Harness Certified Continuous Delivery and GitOps Developer"/>
+      </a>
+      <br/><br/>
+      <strong>🔄 Continuous Delivery &amp; GitOps</strong>
+      <br/>
+      <sub>Harness Certified Developer</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/CI_CD-GITOPS-EF7B4D?style=flat-square&labelColor=161B22" alt="CI/CD and GitOps"/>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://images.credly.com/images/be4cbcd4-ac63-408f-a42f-30ef82b74a8b/blob">
+        <img src="https://images.credly.com/images/be4cbcd4-ac63-408f-a42f-30ef82b74a8b/blob" width="145" alt="Harness Certified Database DevOps Developer"/>
+      </a>
+      <br/><br/>
+      <strong>🗄️ Database DevOps</strong>
+      <br/>
+      <sub>Harness Certified Developer</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/DATABASE-DEVOPS-9D7BFF?style=flat-square&labelColor=161B22" alt="Database DevOps"/>
+    </td>
+
+  <td align="center" width="33%">
+      <a href="https://images.credly.com/images/aa0830ac-826a-4361-99e1-db6aee2d02f8/blob">
+        <img src="https://images.credly.com/images/aa0830ac-826a-4361-99e1-db6aee2d02f8/blob" width="145" alt="Harness Certified Infrastructure as Code Management Developer"/>
+      </a>
+      <br/><br/>
+      <strong>🏗️ Infrastructure as Code</strong>
+      <br/>
+      <sub>Harness Certified Developer</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/INFRASTRUCTURE-AS_CODE-00C9A7?style=flat-square&labelColor=161B22" alt="Infrastructure as Code"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://images.credly.com/images/c665adab-e247-4edb-b573-e0cd3799ee68/image.png">
+        <img src="https://images.credly.com/images/c665adab-e247-4edb-b573-e0cd3799ee68/image.png" width="145" alt="Harness Certified Cloud and AI Cost Management Developer"/>
+      </a>
+      <br/><br/>
+      <strong>☁️ Cloud &amp; AI Cost Management</strong>
+      <br/>
+      <sub>Harness Certified Developer</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/CLOUD-COST_MANAGEMENT-00E5FF?style=flat-square&labelColor=161B22" alt="Cloud Cost Management"/>
+    </td>
+
+  <td align="center" width="33%">
+      <a href="https://www.credly.com/org/coursera/badge/cloud-devops">
+        <img src="./assets/intel.png" width="145" alt="Cloud DevOps badge"/>
+      </a>
+      <br/><br/>
+      <strong>⚡ Cloud DevOps</strong>
+      <br/>
+      <sub>Coursera Badge</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/CLOUD-DEVOPS-00E5FF?style=flat-square&labelColor=161B22" alt="Cloud DevOps"/>
+    </td>
+  </tr>
+</table>
 ---
 
 # 🛠️ TECHNICAL FOCUS
